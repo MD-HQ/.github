@@ -1,6 +1,7 @@
 # MD-HQ by Cerbo
 
-https://vimeo.com/428667176
+<iframe src="https://player.vimeo.com/video/428667176?h=7574662eae" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/428667176">Intro to Cerbo</a> from <a href="https://vimeo.com/cerbo">Cerbo EHR</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 **MD-HQ** is an EMR and Patient Portal SaaS solution.
 
